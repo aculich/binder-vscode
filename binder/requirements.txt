@@ -1,0 +1,8 @@
+# binder/requirements.txt
+
+# Jupyter Environment (Lab is recommended for extensions)
+jupyterlab>=3.0
+
+# The proxy extension for VS Code (code-server)
+# This will also pull in jupyter-server-proxy as a dependency
+jupyter-vscode-proxy
