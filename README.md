@@ -1,6 +1,6 @@
 # VS Code (code-server) on Binder Example
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>/<YOUR_BRANCH_NAME>?urlpath=vscode/home/jovyan/hello_world_vscode.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aculich/binder-vscode/main?urlpath=vscode/home/jovyan/hello_world_vscode.ipynb)
 *(Click the badge above to launch!)*
 
 This repository demonstrates how to run VS Code (via `code-server`) directly within a Binder environment using the `jupyter-vscode-proxy` extension.
